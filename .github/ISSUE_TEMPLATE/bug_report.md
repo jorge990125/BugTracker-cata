@@ -1,8 +1,8 @@
 ---
-Nombre: 🐛 Bug Report
-Acerca de: Informa cualquier error o defecto que hayas encontrado al usar Cataclysmo 4.3.4
-Etiquetas: bug
-Titulo: 🐛 [Bug] 
+name: 🐛 Bug Report
+about: Informa cualquier error o defecto que hayas encontrado al usar Cataclysmo 4.3.4
+labels: bug
+title: 🐛 [Bug] 
 ---
 
 ## 🐛 Bug report
