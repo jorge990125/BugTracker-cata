@@ -19,3 +19,6 @@ Al momento de subir el reporte debe de cumplir las reglas, caso contrario el rep
 - **Llenar los campos solicitados y clic en submit:
   https://ibb.co/Qv4fbWt
 
+#Link de base de datos
+- **https://www.wowhead.com/
+- **https://cata-twinhead.twinstar.cz/
