@@ -1,35 +1,31 @@
 ---
-name: 🐛 Bug Report
-about: Report any bug or defect you've come across when using Pandaria 4.3.4
-labels: bug
-title: 🐛 [Bug] 
+Nombre: 🐛 Bug Report
+Acerca de: Informa cualquier error o defecto que hayas encontrado al usar Cataclysm 4.3.4
+Etiquetas: bug
+Titulo: 🐛 [Bug] 
 ---
-<!--
-Visit our Discord to engage directly with the developers of Pandaria 4.3.4
 
-Discord: https://discord.gg/CBYTKys3sY
--->
 ## 🐛 Bug report
-<!-- Describe your issue in detail. Give us as much information as possible. You should include a screenshot! -->
-- No information
+<!-- Describe tu problema en detalle.  Danos tanta información como sea posible.  ¡Deberías incluir una captura de pantalla!  -->
+- Sin información
 
-### Expected behavior
-<!-- How should it work + proof. -->
-- No information
+### Comportamiento esperado
+<!-- Cómo debería funcionar? + prueba -->
+- Sin información
 
-### Steps to reproduce
-<!-- Provide all GM commands required to reproduce if possible. -->
+###  Pasos para reproducir
+<!-- Proporcione todos los comandos GM necesarios para reproducir si es posible. -->
 1.
 2.
 3.
 4. ...
-5. Profit.
+5. Beneficio.
 
-### Version
-<!-- Provide these infos if available and applicable -->
+### Versión
+<!-- Proporcione esta información si está disponible y corresponde -->
 <!--
-  Currently available client versions:
+  Versiones de cliente actualmente disponibles:
   - 4.3.4.15595
 -->
-Client Version: 
-- No information
+Versión del cliente: 
+- Sin información
