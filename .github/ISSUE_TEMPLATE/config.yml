@@ -3,9 +3,6 @@ contact_links:
   - name: Discord
     url: https://discord.gg/G7u3nq3k
     about: Chat
-  - name: How to Compile
-    url: https://trinitycore.atlassian.net/
-    about: Wiki
   - name: Community Support Forum
     url: https://discord.com/channels/1281247516981202964/1281247517492908137
     about: Forum
