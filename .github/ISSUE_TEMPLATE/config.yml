@@ -1,13 +1,13 @@
 blank_issues_enabled: false
 contact_links:
   - name: Discord
-    url: https://discord.gg/CBYTKys3sY
+    url: https://discord.gg/G7u3nq3k
     about: Chat
   - name: How to Compile
     url: https://trinitycore.atlassian.net/
     about: Wiki
   - name: Community Support Forum
-    url: https://discord.com/channels/1211860661844574248/1211860856091189309
+    url: https://discord.com/channels/1281247516981202964/1281247517492908137
     about: Forum
   - name: Discussions
     url: https://github.com/jorge990125/Bucktraker-cata/discussions
